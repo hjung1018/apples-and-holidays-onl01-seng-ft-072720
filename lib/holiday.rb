@@ -35,7 +35,21 @@ end
 
 
 def add_supply_to_memorial_day(holiday_hash, supply)
-  # again, holiday_hash is the same as the ones above
+  :winter => {
+  #     :christmas => ["Lights", "Wreath"],
+  #     :new_years => ["Party Hats"]
+  #   },
+  #   :summer => {
+  #     :fourth_of_july => ["Fireworks", "BBQ"]
+  #   },
+  #   :fall => {
+  #     :thanksgiving => ["Turkey"]
+  #   },
+  #   :spring => {
+  #     :memorial_day => ["BBQ"]
+  #   }
+  # }
+  
   # add the second argument to the memorial day array
 
 end
