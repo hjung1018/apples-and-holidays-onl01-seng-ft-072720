@@ -23,7 +23,6 @@ end
 def add_supply_to_winter_holidays(holiday_hash, supply)
   holiday_hash[:winter][:new_years] << supply
    
-  # Christmas AND the New Year's arrays
 end
 end
 end
