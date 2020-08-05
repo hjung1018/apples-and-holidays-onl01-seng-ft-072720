@@ -91,15 +91,4 @@ def all_holidays_with_bbq(supplies_hash)
     end
   end.flatten.compact
 end
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
